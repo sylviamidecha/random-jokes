@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: Open Sans, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    
+      width :100;
+}
+#radom__jokes{
+    background-color:mediumaquamarine;
+    font-size: 2em;
+    height: 15vh;
+    padding-top: 1.5em;
+    border-radius:50px;
+    text-align: center;
+}
+#jokes{
+    background-color: lightcoral;
+    height: 30vh;
+    text-align: center;
+    padding-top: 1.5em;
+   font-size: 1.6em;
+   border-radius:60px;
+}
+#jokes__categories{
+    background-color:mediumaquamarine;
+    padding: 1em 2em;
+    margin: 2em;
+    color:black;
+}
